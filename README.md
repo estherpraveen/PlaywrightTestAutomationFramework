@@ -38,7 +38,7 @@ Before running the tests, install:
 
 ```bash
 git clone <https://github.com/estherpraveen/PlaywrightTestAutomationFramework>
-cd <TflJourneyPlannerFramework>
+cd <PlaywrightTestAutomationFramework>
 ```
 
 ### 2. Restore dependencies
