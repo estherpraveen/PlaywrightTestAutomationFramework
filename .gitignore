@@ -1,0 +1,15 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# IDE-specific files
+.vs/
+.idea/
+*.user
+*.suo
+
+# Ignore generated test results except the ExtentReports HTML report
+/TestResults/*
+!/TestResults/
+/TestResults/*
+!/TestResults/TestReport.html
